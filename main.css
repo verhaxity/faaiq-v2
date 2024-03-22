@@ -81,7 +81,7 @@ button:hover{
 }
 
 .btn span{
-    position: 0.3em 0.4em;
+    padding: 0.3em 0.4em;
     background: #fff;
     font-size: 12px;
     clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 70%, 80% 100%, 30% 100%, 0 100%, 0 30%);
