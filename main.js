@@ -1,3 +1,11 @@
+function redirect1 () {
+    window.open("https://solo.to/verhaxity");
+} 
+
+function redirect2 () {
+    window.open("https://faaiq.online");
+}
+
 document.addEventListener("DOMContentLoaded", function() {
     const toggleButton = document.querySelector(".toggle button");
     const container = document.querySelector(".container");
